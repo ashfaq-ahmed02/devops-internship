@@ -1,0 +1,38 @@
+DAY 01 - LINUX COMMAND CHEAT SHEET
+
+Navigation:
+pwd       - Show current directory
+ls        - List files and directories
+ls -a     - Show hidden files
+cd        - Change directory
+
+File and Directory Management:
+mkdir     - Create a directory
+touch     - Create an empty file
+cp        - Copy files/directories
+mv        - Move or rename files/directories
+rm        - Remove files
+rmdir     - Remove an empty directory
+
+File Viewing:
+cat       - Display file contents
+less      - View file contents page by page
+head      - Show beginning of a file
+tail      - Show end of a file
+
+System Information:
+whoami    - Show current user
+uname     - Show system information
+df        - Show disk space
+du        - Show directory/file space usage
+
+File Permissions:
+chmod     - Change file permissions
+chown     - Change file ownership
+
+Package Management:
+apt       - Manage Ubuntu packages
+
+Process Management:
+ps        - Show running processes
+top       - Monitor running processes

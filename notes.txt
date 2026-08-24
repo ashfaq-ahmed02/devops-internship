@@ -1,0 +1,30 @@
+DAY 01 - LINUX NOTES
+
+Today I started learning Linux using Ubuntu.
+
+Topics practiced:
+
+1. Linux basics
+2. Ubuntu environment
+3. Linux filesystem
+4. Directory navigation
+5. File creation
+6. Copying files
+7. Moving files
+8. Removing files
+9. Basic Git workflow
+10. GitHub SSH authentication
+
+Linux commands practiced:
+
+pwd
+ls
+ls -a
+cd
+mkdir
+touch
+cp
+mv
+rm
+cat
+o

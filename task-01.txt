@@ -1,0 +1,22 @@
+DAY 01 - TASK 01
+
+Task:
+Create and manage a Linux project directory using basic Linux commands.
+
+Work completed:
+
+1. Created the devops-internship directory.
+2. Created the day-01-linux directory.
+3. Practiced directory navigation.
+4. Created files using touch.
+5. Copied files using cp.
+6. Renamed files using mv.
+7. Removed files using rm.
+8. Created a Linux command cheat sheet.
+9. Initialized a Git repository.
+10. Created a GitHub repository.
+11. Configured SSH authentication.
+12. Pushed Day 01 work to GitHub.
+
+Status:
+Completed
