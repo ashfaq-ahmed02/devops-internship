@@ -28,3 +28,5 @@ mv
 rm
 cat
 grep
+find
+chmod
