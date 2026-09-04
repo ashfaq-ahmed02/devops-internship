@@ -32,3 +32,4 @@ find
 chmod
 sudo
 apt
+ps
