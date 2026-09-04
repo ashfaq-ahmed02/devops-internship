@@ -31,3 +31,4 @@ grep
 find
 chmod
 sudo
+apt
