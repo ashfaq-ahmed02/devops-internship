@@ -36,5 +36,5 @@ apt       - Manage Ubuntu packages
 Process Management:
 ps        - Show running processes
 top       - Monitor running processes
-ssh
-Connects to a remote server
+ssh       - Connects to a remote server
+scp       - Copies files between computers
