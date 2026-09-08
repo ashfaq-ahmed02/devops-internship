@@ -39,3 +39,4 @@ top       - Monitor running processes
 ssh       - Connects to a remote server
 scp       - Copies files between computers
 curl      - Sends requests / tests URLs
+wget      - Downloads files from the internet
