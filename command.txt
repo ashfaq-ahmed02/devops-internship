@@ -44,3 +44,4 @@ systemctl - Manages Linux services
 journalctl - Views system/service logs
 
 Command to Remote Server Connection
+ssh username@server-ip  --> example:ssh ubuntu@192.168.1.100
