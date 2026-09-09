@@ -41,3 +41,4 @@ scp       - Copies files between computers
 curl      - Sends requests / tests URLs
 wget      - Downloads files from the internet
 systemctl - Manages Linux services
+journalctl - Views system/service logs
