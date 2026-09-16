@@ -1,0 +1,5 @@
+server,status,cpu
+web-01,running,45
+web-02,running,82
+web-03,stopped,0
+web-04,running,91
