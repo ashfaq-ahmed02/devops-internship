@@ -34,3 +34,4 @@ sudo
 apt
 ps
 kill
+chmod 777 for giving all acces
